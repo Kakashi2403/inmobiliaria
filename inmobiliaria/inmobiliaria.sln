@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inmobiliaria", "inmobiliaria.csproj", "{88950A8E-4FCB-49CB-AF0A-A0A931810409}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0.Core", "0.Core", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Application", "1.Application", "{79615557-4D2D-4840-882C-F4A058106F39}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Infrastructure", "2.Infrastructure", "{2AF743BA-87ED-4014-8314-65558C9B5359}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Api", "3.Api", "{EE0F85ED-2229-4AB4-B248-02D6646E87B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inmobiliaria.core", "..\inmobiliaria.core\inmobiliaria.core.csproj", "{4218B2EE-AC55-4AD8-A3F3-49A5FFB8C4C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inmobiliaria.application", "..\inmobiliaria.application\inmobiliaria.application.csproj", "{356A6B44-9AE7-4C7F-BA70-11EBF18DFABD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inmobiliaria.infrastructure", "..\inmobiliaria.infrastructure\inmobiliaria.infrastructure.csproj", "{9A306028-56C2-4AF1-B9E0-643B740417B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{88950A8E-4FCB-49CB-AF0A-A0A931810409}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88950A8E-4FCB-49CB-AF0A-A0A931810409}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88950A8E-4FCB-49CB-AF0A-A0A931810409}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88950A8E-4FCB-49CB-AF0A-A0A931810409}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4218B2EE-AC55-4AD8-A3F3-49A5FFB8C4C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4218B2EE-AC55-4AD8-A3F3-49A5FFB8C4C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4218B2EE-AC55-4AD8-A3F3-49A5FFB8C4C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4218B2EE-AC55-4AD8-A3F3-49A5FFB8C4C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{356A6B44-9AE7-4C7F-BA70-11EBF18DFABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{356A6B44-9AE7-4C7F-BA70-11EBF18DFABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{356A6B44-9AE7-4C7F-BA70-11EBF18DFABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{356A6B44-9AE7-4C7F-BA70-11EBF18DFABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A306028-56C2-4AF1-B9E0-643B740417B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A306028-56C2-4AF1-B9E0-643B740417B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A306028-56C2-4AF1-B9E0-643B740417B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A306028-56C2-4AF1-B9E0-643B740417B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{88950A8E-4FCB-49CB-AF0A-A0A931810409} = {EE0F85ED-2229-4AB4-B248-02D6646E87B6}
+		{4218B2EE-AC55-4AD8-A3F3-49A5FFB8C4C2} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{356A6B44-9AE7-4C7F-BA70-11EBF18DFABD} = {79615557-4D2D-4840-882C-F4A058106F39}
+		{9A306028-56C2-4AF1-B9E0-643B740417B9} = {2AF743BA-87ED-4014-8314-65558C9B5359}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {230E0B0C-183A-4064-97F7-9423590D00C4}
+	EndGlobalSection
+EndGlobal
