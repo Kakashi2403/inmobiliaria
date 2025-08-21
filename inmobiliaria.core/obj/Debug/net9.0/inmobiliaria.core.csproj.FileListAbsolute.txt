@@ -1,0 +1,12 @@
+D:\million\inmobiliaria.core\bin\Debug\net9.0\inmobiliaria.core.deps.json
+D:\million\inmobiliaria.core\bin\Debug\net9.0\inmobiliaria.core.dll
+D:\million\inmobiliaria.core\bin\Debug\net9.0\inmobiliaria.core.pdb
+D:\million\inmobiliaria.core\obj\Debug\net9.0\inmobiliaria.core.csproj.AssemblyReference.cache
+D:\million\inmobiliaria.core\obj\Debug\net9.0\inmobiliaria.core.GeneratedMSBuildEditorConfig.editorconfig
+D:\million\inmobiliaria.core\obj\Debug\net9.0\inmobiliaria.core.AssemblyInfoInputs.cache
+D:\million\inmobiliaria.core\obj\Debug\net9.0\inmobiliaria.core.AssemblyInfo.cs
+D:\million\inmobiliaria.core\obj\Debug\net9.0\inmobiliaria.core.csproj.CoreCompileInputs.cache
+D:\million\inmobiliaria.core\obj\Debug\net9.0\inmobiliaria.core.dll
+D:\million\inmobiliaria.core\obj\Debug\net9.0\refint\inmobiliaria.core.dll
+D:\million\inmobiliaria.core\obj\Debug\net9.0\inmobiliaria.core.pdb
+D:\million\inmobiliaria.core\obj\Debug\net9.0\ref\inmobiliaria.core.dll

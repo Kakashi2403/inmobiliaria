@@ -1,0 +1,17 @@
+D:\million\inmobiliaria.infrastructure\bin\Debug\net9.0\inmobiliaria.infrastructure.deps.json
+D:\million\inmobiliaria.infrastructure\bin\Debug\net9.0\inmobiliaria.infrastructure.runtimeconfig.json
+D:\million\inmobiliaria.infrastructure\bin\Debug\net9.0\inmobiliaria.infrastructure.dll
+D:\million\inmobiliaria.infrastructure\bin\Debug\net9.0\inmobiliaria.infrastructure.pdb
+D:\million\inmobiliaria.infrastructure\bin\Debug\net9.0\inmobiliaria.core.dll
+D:\million\inmobiliaria.infrastructure\bin\Debug\net9.0\inmobiliaria.core.pdb
+D:\million\inmobiliaria.infrastructure\obj\Debug\net9.0\inmobiliaria.infrastructure.csproj.AssemblyReference.cache
+D:\million\inmobiliaria.infrastructure\obj\Debug\net9.0\inmobiliaria.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\million\inmobiliaria.infrastructure\obj\Debug\net9.0\inmobiliaria.infrastructure.AssemblyInfoInputs.cache
+D:\million\inmobiliaria.infrastructure\obj\Debug\net9.0\inmobiliaria.infrastructure.AssemblyInfo.cs
+D:\million\inmobiliaria.infrastructure\obj\Debug\net9.0\inmobiliaria.infrastructure.csproj.CoreCompileInputs.cache
+D:\million\inmobiliaria.infrastructure\obj\Debug\net9.0\inmobili.7EBC4D99.Up2Date
+D:\million\inmobiliaria.infrastructure\obj\Debug\net9.0\inmobiliaria.infrastructure.dll
+D:\million\inmobiliaria.infrastructure\obj\Debug\net9.0\refint\inmobiliaria.infrastructure.dll
+D:\million\inmobiliaria.infrastructure\obj\Debug\net9.0\inmobiliaria.infrastructure.pdb
+D:\million\inmobiliaria.infrastructure\obj\Debug\net9.0\inmobiliaria.infrastructure.genruntimeconfig.cache
+D:\million\inmobiliaria.infrastructure\obj\Debug\net9.0\ref\inmobiliaria.infrastructure.dll

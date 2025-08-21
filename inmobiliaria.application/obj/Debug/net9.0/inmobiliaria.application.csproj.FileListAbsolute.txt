@@ -1,0 +1,15 @@
+D:\million\inmobiliaria.application\bin\Debug\net9.0\inmobiliaria.application.deps.json
+D:\million\inmobiliaria.application\bin\Debug\net9.0\inmobiliaria.application.dll
+D:\million\inmobiliaria.application\bin\Debug\net9.0\inmobiliaria.application.pdb
+D:\million\inmobiliaria.application\bin\Debug\net9.0\inmobiliaria.core.dll
+D:\million\inmobiliaria.application\bin\Debug\net9.0\inmobiliaria.core.pdb
+D:\million\inmobiliaria.application\obj\Debug\net9.0\inmobiliaria.application.csproj.AssemblyReference.cache
+D:\million\inmobiliaria.application\obj\Debug\net9.0\inmobiliaria.application.GeneratedMSBuildEditorConfig.editorconfig
+D:\million\inmobiliaria.application\obj\Debug\net9.0\inmobiliaria.application.AssemblyInfoInputs.cache
+D:\million\inmobiliaria.application\obj\Debug\net9.0\inmobiliaria.application.AssemblyInfo.cs
+D:\million\inmobiliaria.application\obj\Debug\net9.0\inmobiliaria.application.csproj.CoreCompileInputs.cache
+D:\million\inmobiliaria.application\obj\Debug\net9.0\inmobili.A566ECE0.Up2Date
+D:\million\inmobiliaria.application\obj\Debug\net9.0\inmobiliaria.application.dll
+D:\million\inmobiliaria.application\obj\Debug\net9.0\refint\inmobiliaria.application.dll
+D:\million\inmobiliaria.application\obj\Debug\net9.0\inmobiliaria.application.pdb
+D:\million\inmobiliaria.application\obj\Debug\net9.0\ref\inmobiliaria.application.dll
